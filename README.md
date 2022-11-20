@@ -78,3 +78,4 @@ Figure 8. Flow chart of rolling bearing fault diagnosis based on a spectrum map.
 5. The trained model is deployed to mechanical equipment for fault detection.
 
 - I haven't use VGG model either, i've used Resnet18.
+
